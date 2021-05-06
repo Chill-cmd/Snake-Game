@@ -5,7 +5,7 @@ import random
 tiempo = 0.1
 
 pag = turtle.Screen()
-pag.title("SyntGo!")
+pag.title("Snake")
 pag.bgcolor("blue")
 pag.setup(width = 600, height = 600)
 pag.tracer(0)
