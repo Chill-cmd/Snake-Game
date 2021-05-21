@@ -1,5 +1,9 @@
+Snake Game
+==========
+[![Discord server invite](https://img.shields.io/discord/834287971837411358?label=Servidor%20)](https://discord.com/invite/kWgKmd4MQ8)
+[![Python](https://img.shields.io/pypi/pyversions/discord.js?logo=Python)](https://www.python.org/)
 
-# Snake Game
+
 🐍 El clasico juego de la serpiente en Python!
 
 - Este codigo esta hecho por el tutorial de [YouDevs](https://www.youtube.com/user/YouDevs).
@@ -9,3 +13,5 @@
 
 # Iniciar el juego
 Para iniciar el juego tendras que escribir en la consola de Windows o de algun editor de codigo: "python game.py" :)
+
+Recuerda tener ya instalado en entorno de Python en tu dispositivo.
