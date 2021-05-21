@@ -14,4 +14,4 @@ Snake Game
 # Iniciar el juego
 Para iniciar el juego tendras que escribir en la consola de Windows o de algun editor de codigo: "python game.py" :)
 
-Recuerda tener ya instalado en entorno de Python en tu dispositivo.
+Recuerda tener ya instalado el entorno de Python en tu dispositivo.
